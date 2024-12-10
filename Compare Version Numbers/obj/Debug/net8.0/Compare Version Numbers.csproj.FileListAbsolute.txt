@@ -1,0 +1,14 @@
+C:\Users\magom\source\repos\Compare Version Numbers\Compare Version Numbers\bin\Debug\net8.0\Compare Version Numbers.exe
+C:\Users\magom\source\repos\Compare Version Numbers\Compare Version Numbers\bin\Debug\net8.0\Compare Version Numbers.deps.json
+C:\Users\magom\source\repos\Compare Version Numbers\Compare Version Numbers\bin\Debug\net8.0\Compare Version Numbers.runtimeconfig.json
+C:\Users\magom\source\repos\Compare Version Numbers\Compare Version Numbers\bin\Debug\net8.0\Compare Version Numbers.dll
+C:\Users\magom\source\repos\Compare Version Numbers\Compare Version Numbers\bin\Debug\net8.0\Compare Version Numbers.pdb
+C:\Users\magom\source\repos\Compare Version Numbers\Compare Version Numbers\obj\Debug\net8.0\Compare Version Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magom\source\repos\Compare Version Numbers\Compare Version Numbers\obj\Debug\net8.0\Compare Version Numbers.AssemblyInfoInputs.cache
+C:\Users\magom\source\repos\Compare Version Numbers\Compare Version Numbers\obj\Debug\net8.0\Compare Version Numbers.AssemblyInfo.cs
+C:\Users\magom\source\repos\Compare Version Numbers\Compare Version Numbers\obj\Debug\net8.0\Compare Version Numbers.csproj.CoreCompileInputs.cache
+C:\Users\magom\source\repos\Compare Version Numbers\Compare Version Numbers\obj\Debug\net8.0\Compare Version Numbers.dll
+C:\Users\magom\source\repos\Compare Version Numbers\Compare Version Numbers\obj\Debug\net8.0\refint\Compare Version Numbers.dll
+C:\Users\magom\source\repos\Compare Version Numbers\Compare Version Numbers\obj\Debug\net8.0\Compare Version Numbers.pdb
+C:\Users\magom\source\repos\Compare Version Numbers\Compare Version Numbers\obj\Debug\net8.0\Compare Version Numbers.genruntimeconfig.cache
+C:\Users\magom\source\repos\Compare Version Numbers\Compare Version Numbers\obj\Debug\net8.0\ref\Compare Version Numbers.dll
